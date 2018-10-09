@@ -18,15 +18,12 @@ interface test {
 }
 
 ```
-
 parse abi def
 
 ``` js
-
 var abiParser = require('fib-abl');
 var testParser = new abiParser();
 var abi = testParser.parse(content);
 
 console.log(abi);
-
 ```
