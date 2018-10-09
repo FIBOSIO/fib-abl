@@ -19,6 +19,7 @@ interface test {
 
 ```
 
+parse abi def
 
 ``` js
 
