@@ -1,6 +1,5 @@
-# fib-abl
 
-``` java
+
 class account extends db {
     type account;
     index_type i64;
@@ -16,16 +15,3 @@ class account {
 interface test {
     void create(name owner, string content);
 }
-
-```
-
-
-``` js
-
-var abiParser = require('fib-abl');
-var testParser = new abiParser();
-var abi = testParser.parse(content);
-
-console.log(abi);
-
-```
